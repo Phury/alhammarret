@@ -1,0 +1,104 @@
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  
+}
+
+body, .ms, .life-counter a {
+  color: #fff;
+}
+
+.fixed-action-btn.toolbar {
+  top: 46%;
+}
+
+.row .col.nopad{
+  padding: 0;
+}
+
+ul.inline li {
+  display: inline-block;
+}
+
+.text-right {
+  text-align: right;
+}
+
+
+ul.inline li {
+  display: inline-block;
+}
+
+ul.inline.mana li {
+  width: 20%;
+  text-align: center;
+}
+ul.inline.counters li {
+  width: 50%;
+  text-align: center;
+}
+
+
+.life-counter-header p {
+  font-size: 2.2rem;
+  margin: 0;
+}
+.life-counter-header a {
+  display: block;
+}
+.life-counter-header a, 
+.life-counter-header i {
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+}
+.life-counter, .life-counter-options {
+  height: 50vh;
+}
+.life-counter-content {
+  margin-bottom: 0;
+}
+.life-counter-content ,
+.life-counter-content i{
+  font-size: 5rem;
+}
+.life-counter-content p {
+  font-size: 7rem;
+  width: 100%;
+  margin: 0;
+}
+
+.life-counter-extra {
+  margin: 0 4rem;
+}
+p.range-field {
+  margin: 0;
+}
+
+.life-counter-content input[type=range] {
+  margin: 0;
+}
+.life-counter-options a {
+  font-size: 3rem;
+}
+.life-counter-options {
+  padding-top: 1rem;
+}
+.life-counter-options input[type=text] {
+  font-size: 2em;
+  line-height: 2.2em;
+}
+
+div.w {
+  background: linear-gradient(135deg, #ffd787, #ffffd7);
+}
+div.u {
+  background: linear-gradient(135deg, #005f87, #0087ff);
+}
+div.b {
+  background: linear-gradient(135deg, #303030, #808080);
+}
+div.r {
+  background: linear-gradient(135deg, #d70000, #ff5f5f);
+}
+div.g {
+  background: linear-gradient(135deg, #00875f, #00d787);
+}
