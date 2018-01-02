@@ -1,7 +1,5 @@
 # Alhammarret - The mtg life counter
 
-<img src="images/bg/Sphinx's_Tutelage.jpg" />
-
 A life counter for your magic the gathering games
 
 # Install
