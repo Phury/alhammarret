@@ -9,6 +9,7 @@ body, .ms, .life-counter a {
 
 .fixed-action-btn.toolbar {
   top: 46%;
+  left: 46%;
 }
 
 .row .col.nopad{
